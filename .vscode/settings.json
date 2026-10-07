@@ -1,0 +1,6 @@
+{
+    "editor.parameterHints.enabled": false,
+    "editor.parameterHints.cycle": false,
+    "js/ts.inlayHints.parameterNames.suppressWhenArgumentMatchesName": false,
+    "editor.inlayHints.enabled": "off"
+}
