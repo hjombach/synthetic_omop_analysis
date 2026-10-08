@@ -12,9 +12,8 @@ Poetry is used as the package manager.
 
 [SNOMED - Influenza A](https://evsexplore.semantics.cancer.gov/evsexplore/concept/snomedct_us/442438000)
 
-
 Visualization References:
 [SNOMED Hierarchy](https://www.techtarget.com/searchhealthit/definition/SNOMED-CT)
 
-
 **Note this is entirely synthetic data and no claims should be made from it.**
+
